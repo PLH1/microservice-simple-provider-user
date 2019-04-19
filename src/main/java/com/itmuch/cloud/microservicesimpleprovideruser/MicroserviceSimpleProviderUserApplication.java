@@ -22,7 +22,7 @@ public class MicroserviceSimpleProviderUserApplication {
  * 原因详见：
  * https://github.com/spring-projects/spring-boot/issues/13042
  * https://github.com/spring-projects/spring-boot/issues/13539
- * @param repository repo
+ * @param  repo
  * @return runner
  */
    @Bean
